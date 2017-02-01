@@ -1,0 +1,506 @@
+git clone https://github.com/AngularClass/angular-seed.git
+cd angular-seed\
+npm install
+code .
+npm run start:hmr
+e.
+cd..
+cd Projects\
+cd Angular2Application1\
+code .
+ll
+ls
+cd angular2-webpack-starter\
+code .
+webpack --progress
+webpack --progress --hot
+npm run server:dev:hmr
+cd webpack-boilerplate\
+webpack --progress --show-modules
+webpack --progress --display-reasons
+webpack
+npm install -D webpack-dev-server
+npm install -D webpack-dev-server webpack-dev-middleware
+npm install -D url-loader
+npm install -S angular2-template-loader
+npm install -D angular2-template-loader
+npm install -D "@types/webpack"
+npm install -D @types/webpack
+npm install -D @angularclass/hmr-loader
+npm install -D @angularclass/hmr
+npm build
+npm run server:dev:hot
+npm install -D raw-loader
+wepack --progress --hot
+e.
+npm run clean
+webpack --progress --
+npm install -D cross-env
+npm run webpack-dev-server
+npm install -D http-server
+npm install -D optimize-js-plugin
+npm install -D babel-core babel-loader babel-preset-es2015 babel-preset-stage-0
+npm run build --hot
+webpack --progress --hot
+npm run server:dev
+npm run server:dev:hmr
+cod e.
+npm install -S @angular/http @angular/routing
+npm install -S @angular/http @angular/router
+npm install -S @angular/forms
+npm run builöd
+npm run server:pro
+npm run server:prod
+npm install --save https://github.com/angular/material2-builds.git
+npm view @angular/material
+npm uninstall --save https://github.com/angular/material2-builds.git
+npm install --save @angular/material
+npm install
+npm install -D to-string-loader
+npm run build:prod
+code .
+npm install --save hammerjs
+npm install --save-dev @types/hammerjs
+webpack --progress
+npm run build
+npm run server
+git clone https://github.com/AngularClass/angular-seed.git
+cd angular-seed\
+npm install
+code .
+npm run start:hmr
+e.
+cd..
+cd Projects\
+cd Angular2Application1\
+code .
+ll
+ls
+cd angular2-webpack-starter\
+code .
+webpack --progress
+webpack --progress --hot
+npm run server:dev:hmr
+webpack --progress --show-modules
+webpack --progress --display-reasons
+webpack
+npm install -D webpack-dev-server
+npm install -D webpack-dev-server webpack-dev-middleware
+npm install -D url-loader
+npm install -S angular2-template-loader
+npm install -D angular2-template-loader
+npm install -D "@types/webpack"
+npm install -D @types/webpack
+npm install -D @angularclass/hmr-loader
+npm install -D @angularclass/hmr
+npm build
+npm run server:dev:hot
+npm install -D raw-loader
+wepack --progress --hot
+npm run clean
+webpack --progress --
+npm install -D cross-env
+npm run webpack-dev-server
+npm install -D http-server
+npm install -D optimize-js-plugin
+npm install -D babel-core babel-loader babel-preset-es2015 babel-preset-stage-0
+npm run build --hot
+webpack --progress --hot
+npm run server:dev
+npm run server:dev:hmr
+cod e.
+npm install -S @angular/http @angular/routing
+npm install -S @angular/http @angular/router
+npm install -S @angular/forms
+npm run builöd
+npm run server:pro
+npm run server:prod
+npm install --save https://github.com/angular/material2-builds.git
+npm view @angular/material
+npm uninstall --save https://github.com/angular/material2-builds.git
+npm install --save @angular/material
+npm install
+npm install -D to-string-loader
+npm run build:prod
+npm install --save hammerjs
+npm install --save-dev @types/hammerjs
+webpack --progress
+npm run build
+npm run server
+npm install yarn -g
+e.
+cd webpack-boilerplate\
+yarn
+yarn why argparse
+yarn run build
+yarn run clean:dll
+yarn run cleanall
+git add package.json 
+git add yarn.lock 
+git add debug.log
+git add .gitignore
+git st
+git commit -m "Changed to yarn isntead of NPM"
+webpack --config config\webpack.common.ts 
+yarn add --dev ts-node
+tsc config\webpack.commonts.ts 
+tsc config\webpack.commonts.ts 
+tsc --help
+tsc config\webpack.commonts.ts --sourceMap
+tsc config\webpack.commonts.ts -m commonjs
+tsc config\webpack.commonts.ts -m system
+tsc config\webpack.commonts.ts -m system -t ES5
+tsc config\webpack.commonts.ts -m umd -t ES5
+tsc config\webpack.commonts.ts -m systemjs -t ES5
+tsc config\webpack.commonts.ts -m commonjs -t ES5
+yarn list
+yarn --help
+yarn info
+yarn info @types/node
+yarn info @types/path
+yarn info path
+yarn clean
+yarn run clean
+webpack --config config\webpackts.config.js 
+webpack --config config\webpackts.config.js --profile --progress
+webpack --config config\webpackts.config.js --profile --progress --hot
+code.
+yarn install
+code .
+code
+tsc config\webpack.commonts.ts -m system -t ES5
+tsc config\webpack.commonts.ts -m umd -t ES5
+tsc config\webpack.commonts.ts -m systemjs -t ES5
+tsc config\webpack.commonts.ts -m commonjs -t ES5
+yarn list
+yarn --help
+yarn info
+yarn info @types/node
+yarn info @types/path
+yarn info path
+yarn clean
+yarn run clean
+webpack --config config\webpackts.config.js 
+webpack --config config\webpackts.config.js --profile --progress
+webpack --config config\webpackts.config.js --profile --progress --hot
+code.
+yarn install
+code .
+code
+cd D:\Dev\Repos\webpack-boilerplate
+yarn run server:rod
+yarn run server:prod
+npm run server:dev:hmr
+yarn run server
+npm start
+nom run build:prod
+npm run build
+npm run build:pro
+npm run build:prod
+npm run server:prod
+npm run server
+cd web-project-boilderplate\
+cd..
+cd Angular2Application1\
+code .
+ll
+ls
+cd angular2-webpack-starter\
+code .
+webpack --progress
+webpack --progress --hot
+npm run server:dev:hmr
+cd webpack-boilerplate\
+webpack --progress --show-modules
+webpack --progress --display-reasons
+webpack
+npm install -D webpack-dev-server
+npm install -D webpack-dev-server webpack-dev-middleware
+npm install -D url-loader
+npm install -S angular2-template-loader
+npm install -D angular2-template-loader
+npm install -D "@types/webpack"
+npm install -D @types/webpack
+npm install -D @angularclass/hmr-loader
+npm install -D @angularclass/hmr
+npm build
+npm run server:dev:hot
+npm install -D raw-loader
+wepack --progress --hot
+e.
+npm run clean
+webpack --progress --
+npm install -D cross-env
+npm run webpack-dev-server
+npm install -D http-server
+npm install -D optimize-js-plugin
+npm install -D babel-core babel-loader babel-preset-es2015 babel-preset-stage-0
+npm run build --hot
+webpack --progress --hot
+npm run server:dev
+npm run server:dev:hmr
+cod e.
+npm install -S @angular/http @angular/routing
+npm install -S @angular/http @angular/router
+npm install -S @angular/forms
+npm run builöd
+npm run server:pro
+npm run server:prod
+npm install --save https://github.com/angular/material2-builds.git
+npm view @angular/material
+npm uninstall --save https://github.com/angular/material2-builds.git
+npm install --save @angular/material
+npm install
+npm install -D to-string-loader
+npm run build:prod
+code .
+npm install --save hammerjs
+npm install --save-dev @types/hammerjs
+webpack --progress
+npm run build
+npm run server
+git clone https://github.com/AngularClass/angular-seed.git
+cd angular-seed\
+npm install
+code .
+npm run start:hmr
+e.
+cd Projects\
+cd Angular2Application1\
+code .
+ll
+ls
+cd angular2-webpack-starter\
+code .
+webpack --progress
+webpack --progress --hot
+npm run server:dev:hmr
+webpack --progress --show-modules
+webpack --progress --display-reasons
+webpack
+npm install -D webpack-dev-server
+npm install -D webpack-dev-server webpack-dev-middleware
+npm install -D url-loader
+npm install -S angular2-template-loader
+npm install -D angular2-template-loader
+npm install -D "@types/webpack"
+npm install -D @types/webpack
+npm install -D @angularclass/hmr-loader
+npm install -D @angularclass/hmr
+npm build
+npm run server:dev:hot
+npm install -D raw-loader
+wepack --progress --hot
+npm run clean
+webpack --progress --
+npm install -D cross-env
+npm run webpack-dev-server
+npm install -D http-server
+npm install -D optimize-js-plugin
+npm install -D babel-core babel-loader babel-preset-es2015 babel-preset-stage-0
+npm run build --hot
+webpack --progress --hot
+npm run server:dev
+npm run server:dev:hmr
+cod e.
+npm install -S @angular/http @angular/routing
+npm install -S @angular/http @angular/router
+npm install -S @angular/forms
+npm run builöd
+npm run server:pro
+npm install --save https://github.com/angular/material2-builds.git
+npm view @angular/material
+npm uninstall --save https://github.com/angular/material2-builds.git
+npm install --save @angular/material
+npm install -D to-string-loader
+npm install --save hammerjs
+npm install --save-dev @types/hammerjs
+webpack --progress
+npm install yarn -g
+yarn
+yarn why argparse
+yarn run build
+yarn run cleanall
+git add package.json 
+git add yarn.lock 
+git add debug.log
+git add .gitignore
+git st
+git commit -m "Changed to yarn isntead of NPM"
+webpack --config config\webpack.common.ts 
+yarn add --dev ts-node
+tsc config\webpack.commonts.ts 
+tsc config\webpack.commonts.ts 
+tsc config\webpack.commonts.ts --sourceMap
+tsc config\webpack.commonts.ts -m commonjs
+tsc config\webpack.commonts.ts -m system
+tsc config\webpack.commonts.ts -m system -t ES5
+tsc config\webpack.commonts.ts -m umd -t ES5
+tsc config\webpack.commonts.ts -m systemjs -t ES5
+tsc config\webpack.commonts.ts -m commonjs -t ES5
+yarn list
+yarn info
+yarn info @types/path
+yarn info path
+yarn clean
+webpack --config config\webpackts.config.js 
+webpack --config config\webpackts.config.js --profile --progress --hot
+code.
+code
+cd webpack-boilerplate\
+npm install -g tslint
+npm install -g tslint typescript
+node node_modules\rimraf\rimraf.js node_modules\
+webpack --config config\webpackts.config.js --profile --progress
+webpack --config configts\webpackts.config.js --profile --progress
+yarn info @types/node
+tsc configts\webpack.ts
+tsc --help
+tsc -p configts
+yarn add typescript-require --dev
+yarn remove ts-node
+yarn remove typescript-require
+yarn add --help
+yarn add -D --force ts-node
+webpack --config configts\webpack.loader.js --progress --HOT
+yarn --help
+yarn info @types/webpack-merge
+yarn add -D @types/webpack-merge
+yarn remove -D @types/webpack-merge
+yarn remove @types/webpack-merge
+yarn add @types/extract-text-webpack-plugin -D
+yarn add @types/html-webpack-plugin -D
+webpack --config configts\webpack.loader.js --progress --hot
+yarn add @types/webpack-dll-bundles-plugin -D
+yarn run clean:dll
+yarn add @types/add-asset-html-webpack-plugin -D
+yarn run server:prod
+yarn run clean
+webpack --config configts\webpack.loader.js --progress
+git lgs
+git lga
+git lg
+git diff HEAD ~HEAD
+git diff HEAD
+git diff badd0b7
+npm run npm run cle qq
+afq
+npmrnclenall
+npm run clenall
+npm rnbuldprod
+assqqqqq
+q
+npm run cleanall
+yarn info typescript
+yarn why typescript
+npm install
+npm run build
+cd web-project-boilderplate\
+d..
+cd web-project-boilerplate\
+git remote add origin https://github.com/mangeg/web-project-boilerplate.git
+git push -u origin master
+git clone https://github.com/mangeg/web-project-boilerplate.git test-boiler
+cd test-boiler\
+cd webpack-angular2-material\
+yarn install
+code .
+npm run server
+npm run build:prod
+npm run server:prod
+cd..
+e.
+cd web-project-boilerplate\webpack-angular2-material\
+npm start
+where yarn
+yarn --help
+cd \Dev\Repos\web-project-boilerplate\webpack-angular2-material\
+tarn install
+yarn install
+cd \dev\Repos\web-project-boilerplate\webpack-angular2-material\
+cd web-project-boilerplate\webpack-angular2-material\
+yarn install
+cd %CMDER_ROOT%/config
+e.
+yarn install
+cd \dev\Repos\web-project-boilerplate\webpack-angular2-material\
+cd web-project-boilerplate\webpack-angular2-material\
+yarn install
+cd web-project-boilerplate\webpack-angular2-material\
+npm start
+where yarn
+yarn --help
+tarn install
+yarn install
+cd \dev\Repos\web-project-boilerplate\webpack-angular2-material\
+cd web-project-boilerplate\webpack-angular2-material\
+yarn install
+cd %CMDER_ROOT%/config
+yarn install
+cd \dev\Repos\web-project-boilerplate\webpack-angular2-material\
+cd \Dev\Repos\web-project-boilerplate\webpack-angular2-material\
+yarn install
+git clone https://github.com/powerline/fonts.git PowerlineFonts
+cd PowerlineFonts\
+cd web-project-boilerplate\webpack-angular2-material\
+yarn start
+git status --no-lock-index --porcelain
+touch test
+cd..
+cd web-project-boilerplate\
+cd webpack-angular2-material\
+git st
+e.
+code .
+cd web-project-boilerplate\
+cd web-project-boilerplate\
+cd web-project-boilerplate\
+cd webpack-angular2-material\
+npm run
+npm start
+dfh
+echo -e "\033[0;31mbrown text\033[0;00m"
+md /c type "Colors-256.ans"
+cmd /c type "Colors-256.ans"
+e.
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors24bit.ps1 
+type AnsiColors256.ans 
+npm run
+npm start
+asf
+npm run
+npm start
+afasf
+asf
+cd..
+cd web-project-boilerplate\
+cd webpack-angular2-material\
+npm start
+cd webpack-angular2-material\
+sf
+asf
+,
+npm start
+npm start
+npm run
+npm start
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors
+type AnsiColors16t.ans 
+type AnsiColors16.ans 
+type AnsiColors256.ans 
+npm start
+type AnsiColors
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors256.ans 
+type AnsiColors16.ans 
+type AnsiColors16t.ans 
+type AnsiColors
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors16t.ans 
+type AnsiColors16.ans 
+type AnsiColors256.ans 
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors256.ans 
+asfasf
