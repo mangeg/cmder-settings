@@ -504,3 +504,368 @@ type AnsiColors256.ans
 cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
 type AnsiColors256.ans 
 asfasf
+cd D:\Dev\Tools\cmder\config
+git init
+git commit -m "first commit"
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/mangeg/cmder-settings.git
+git push -u origin master
+type AnsiColors256.ans 
+type AnsiColors
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors16.ans 
+type AnsiColors16t.ans 
+type AnsiColors256.ans 
+npm run
+cd D:\Dev\Repos\web-project-boilerplate\webpack-angular2-material
+npm start
+cd web-project-boilerplate\webpack-angular2-material\
+npm start
+npm start
+cd web-project-boilerplate\webpack-angular2-material\
+npm start
+git add .
+git commit -m "Fix tslint warning"
+git push
+git checkout -b test
+git checkout master
+git brach
+git branch
+git branch --help
+git branch -D test
+git st
+git lg
+git branch -D test
+git st
+git lg
+npm start
+yarn run build
+yarn start
+git lg
+git branch -D test
+git st
+git lg
+npm start
+yarn run build
+yarn start
+yarn run server:prod
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors24bit.ps1 
+type AnsiColors256.ans 
+npm run
+npm start
+asf
+npm run
+npm start
+afasf
+asf
+cd..
+cd web-project-boilerplate\
+cd webpack-angular2-material\
+npm start
+cd webpack-angular2-material\
+sf
+asf
+,
+npm start
+npm start
+npm run
+npm start
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors
+type AnsiColors16t.ans 
+type AnsiColors16.ans 
+type AnsiColors256.ans 
+npm start
+type AnsiColors
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors256.ans 
+type AnsiColors16.ans 
+type AnsiColors16t.ans 
+type AnsiColors
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors16t.ans 
+type AnsiColors16.ans 
+type AnsiColors256.ans 
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors256.ans 
+asfasf
+cd D:\Dev\Tools\cmder\config
+git init
+git commit -m "first commit"
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/mangeg/cmder-settings.git
+git push -u origin master
+type AnsiColors256.ans 
+type AnsiColors
+cd D:\Dev\Tools\cmder\vendor\conemu-maximus5\ConEmu\Addons
+type AnsiColors16.ans 
+type AnsiColors16t.ans 
+type AnsiColors256.ans 
+npm run
+cd D:\Dev\Repos\web-project-boilerplate\webpack-angular2-material
+npm start
+cd web-project-boilerplate\webpack-angular2-material\
+npm start
+npm start
+cd web-project-boilerplate\webpack-angular2-material\
+npm start
+git add .
+git commit -m "Fix tslint warning"
+git push
+git checkout -b test
+git checkout master
+git brach
+git branch
+git branch --help
+git branch -D test
+git st
+git lg
+yarn add -S normalize.css
+yarn add normalize.css
+yarn run clean
+code
+webpack --progress --watch
+yarn run build
+code .
+yarn run build:prod
+git checkout master
+git brach
+git branch
+git branch --help
+git branch -D test
+git st
+git lg
+yarn add -S normalize.css
+yarn add normalize.css
+yarn run clean
+code
+webpack --progress --watch
+yarn run build
+yarn run build:prod
+ls
+cd External\
+dir
+md Angular
+cd Angular\
+md Redux
+cd Redux\
+git clone https://github.com/angular-redux/example-app.git
+e.
+yarn install -g angular-cli
+yarn global add angular-cli
+npm install -g angular-cli
+yarn install
+ng uninstall -g angular-cli
+npm uninstall -g angular-cli
+yarn global add @angular/cli
+ng serve
+npm install -g @angular/cli
+where ng
+ng build
+npm uninstall -g @angular/cli
+git clone https://github.com/e-schultz/ng2-camp-example.git
+cd ng2-camp-example\
+npm install
+npm run start
+npm run dev
+cd..
+cd ng2-redux-example-app\
+code .
+cd ng2-redux-example-app\
+code .
+npm run server:prod
+yarn start
+git brach
+git branch
+git branch --help
+git branch -D test
+yarn add -S normalize.css
+yarn add normalize.css
+code
+webpack --progress --watch
+yarn run build:prod
+ls
+cd External\
+dir
+md Angular
+cd Angular\
+md Redux
+cd Redux\
+git clone https://github.com/angular-redux/example-app.git
+e.
+yarn install -g angular-cli
+yarn global add angular-cli
+npm install -g angular-cli
+ng uninstall -g angular-cli
+npm uninstall -g angular-cli
+yarn global add @angular/cli
+ng serve
+npm install -g @angular/cli
+where ng
+ng build
+npm uninstall -g @angular/cli
+git clone https://github.com/e-schultz/ng2-camp-example.git
+cd ng2-camp-example\
+npm run start
+npm run dev
+cd..
+cd ng2-redux-example-app\
+yarn --hel
+npm run build
+yarn run clean
+yarn run clean:dll
+npm install -g rimraf
+node rimraf node_modules\
+node rimraf node_modules
+rimraf node_modules
+npm install
+yarn info extract-text-webpack-plugin
+yarn upgrade-interactive
+code .
+yarn info @types/extract-text-webpack-plugin
+yarn remove -D @types/extract-text-webpack-plugin
+yarn --help
+yarn remove @types/extract-text-webpack-plugin 
+yarn info @angular-redux
+git commit -m "Changed to TS config for webpack"
+yarn add -S @angular-redux/store
+yarn add @angular-redux/store -S
+yarn add redux -S
+yarn install
+yarn add @angular-redux/router
+yarn add @angular-redux/form
+yarn remove @angular-redux/form
+yarn run build
+git st
+git add .
+git commit -m "Start to add ng-redux"
+git push
+git lg
+yarn run build
+git add .
+git commit -m "Start to add ng-redux"
+git push
+code .
+git lg
+yarn clean
+yarn run clean
+yarn run clean:dll
+gi st
+git s
+tgit st
+git st
+yarn
+yarn --help
+yarn upgrade-interactive
+tsc --version
+node --version
+npm upgrade npm
+npm view npm versions
+npm view npm versions --json
+npm install npm
+npm install npm -g
+npm --version
+npm view npm
+npm install npm
+npm install npm -g
+npm --version
+npm view npm
+yarn list
+npm view npm
+npm install npm
+npm install npm -g
+npm --version
+npm view npm
+yarn list
+npm --version
+npm view npm
+yarn list¨
+yarn list
+npm install npm -g
+npm --version
+npm view npm
+yarn list
+npm view npm
+npm install npm
+npm install npm -g
+npm --version
+npm view npm
+yarn list
+npm --version
+npm view npm
+yarn list¨
+yarn list
+yarn run build
+npm --version
+npm view npm
+yarn list¨
+yarn run build
+yarn list
+npm --version
+npm view npm
+yarn list
+npm --version
+npm view npm
+yarn list¨
+yarn run build
+yarn ls
+yarn list
+npm view npm
+yarn list
+npm --version
+npm view npm
+yarn run build
+yarn ls
+echo -e "Default \e[43mYellow"
+echo -e Default \e[43mYellow
+echo ^-e Default \e[43mYellow
+echo ^-e Default ^\e[43mYellow
+echo
+echo -h
+echo ?
+echo ^G
+echo .
+echo.
+echo:
+touch test.bat
+code test.bat 
+test.bat 
+yarn list¨
+yarn list
+t
+npm view npm versions
+npm view npm versions --json
+npm install npm
+npm install npm -g
+npm view npm
+npm install -g npm@latest
+npm install -g npm@next
+npm --version
+rimraf node_modules\
+code .
+yarn view yarn
+yarn info yarn
+yarn link --help
+yarn help link
+yarn help access
+yarn acess
+yarn access
+yarn bin
+e..
+e.
+yarn
+yarn --help
+yarn check
+yarn config list
+yarn global bin
+yarn ls
+yarn list
+yarn list --dept=0
+yarn list --dept=1
+yarn list --depth=1
+yarn list --depth=0
+yarn list --depth=10
+yarn run build

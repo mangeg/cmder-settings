@@ -3,7 +3,7 @@
 -- Resets the prompt 
 function lambda_prompt_filter()
     cwd = clink.get_cwd()
-    prompt = "\x1b[48;5;20m\x1b[38;2;200;200;200m{cwd} {git}{hg}\n\x1b[1m\x1b[38;2;255;255;0m{lamb} \x1b[0m"
+    prompt = "\x1b[44;93m{cwd} {git}{hg}\n\x1b[97m{lamb} \x1b[0m"
     new_value = string.gsub(prompt, "{cwd}", cwd)
     clink.prompt.value = string.gsub(new_value, "{lamb}", "λ")
 end
